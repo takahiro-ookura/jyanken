@@ -50,7 +50,7 @@ def IsGameDecided
  else
    puts "残念..負けたー"
  end
- return true
+ 
 end
  
 def JankenResult
